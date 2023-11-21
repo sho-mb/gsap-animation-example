@@ -1,7 +1,6 @@
 <script setup>
 import MenuBar from './components/MenuBar.vue';
 import MainPage from './components/MainPage.vue';
-import SecondPageVue from './components/SecondPage.vue';
 
 </script>
 
